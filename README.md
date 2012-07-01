@@ -1,9 +1,9 @@
 font-kalapi
 ===========
+Kalapi Gujarati Unicode font.
 
-Repository for Kalapi Gujarati unicode font.
+For any question, please ask: info@gujaratilexicon.com
 
 License
 =======
-
-GPL-3+
+SIL OFL 1.1
