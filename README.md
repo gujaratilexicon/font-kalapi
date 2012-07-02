@@ -15,11 +15,13 @@ In Linux (or any UNIX like systems or Mac OS X), run following in Terminal, you
 need to have FontForge installed. See: <http://fontforge.sourceforge.net/>
 
  $mkdir TTFfiles
+
  $chmod +x generate.pe
+
  $./generate.pe KalapiUnicode.sfd
 
 Contact
 =======
 
-For any queries regarding project: <info@gujaratilexicon.com>
-For issues in font: <https://github.com/gujaratilexicon/font-kalapi/issues>
+* Bugs/Issues: <https://github.com/gujaratilexicon/font-kalapi/issues>
+* For any other queries: <info@gujaratilexicon.com>
