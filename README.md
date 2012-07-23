@@ -2,8 +2,6 @@ font-kalapi
 ===========
 Kalapi Gujarati Unicode font.
 
-For any question, please ask: info@gujaratilexicon.com
-
 License
 =======
 SIL OFL 1.1
@@ -11,17 +9,17 @@ SIL OFL 1.1
 How to generate TTF file?
 =========================
 
-In Linux (or any UNIX like systems or Mac OS X), run following in Terminal, you
-need to have FontForge installed. See: <http://fontforge.sourceforge.net/>
+For Linux (or any UNIX like systems or Mac OS X):
 
- $mkdir TTFfiles
+You need to have FontForge installed. See: <http://fontforge.sourceforge.net/>
 
- $chmod +x generate.pe
+Run following in Terminal application,
 
- $./generate.pe KalapiUnicode.sfd
+ $make
 
 Contact
 =======
 
-* Bugs/Issues: <https://github.com/gujaratilexicon/font-kalapi/issues>
+* Bugs/Issues, please use:
+  <https://github.com/gujaratilexicon/font-kalapi/issues>
 * For any other queries: <info@gujaratilexicon.com>
