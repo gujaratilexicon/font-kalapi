@@ -1,5 +1,6 @@
 Unreleased
 ----------
+* Added Makefile.
 * Fixed README.md.
 * Added Changelog file.
 
