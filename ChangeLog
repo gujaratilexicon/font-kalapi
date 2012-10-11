@@ -1,3 +1,8 @@
+UNRELEASED
+----------
+* Makefile: Added clean target.
+* COPYRIGHT: Updated according to latest format.
+
 1.0
 ---
 * Renamed KalapiUnicode.sfd to Kalapi.sfd, Font/Family name is Kalapi now,
