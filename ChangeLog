@@ -2,6 +2,7 @@ UNRELEASED
 ----------
 * Makefile: Added clean target.
 * COPYRIGHT: Updated according to latest format.
+* README.md: Updated contact email. Better to use Github issue tracker only.
 
 1.0
 ---

@@ -20,6 +20,5 @@ Run following in Terminal application,
 Contact
 =======
 
-* Bugs/Issues, please use:
-  <https://github.com/gujaratilexicon/font-kalapi/issues>
-* For any other queries: <info@gujaratilexicon.com>
+* Any troubles/Bugs/Issues? please use:
+  <https://github.com/gujaratilexicon/font-kalapi/issues> to report.
