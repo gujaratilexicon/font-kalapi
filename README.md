@@ -1,11 +1,9 @@
 font-kalapi
 ===========
-
 Kalapi Gujarati Unicode font.
 
 Sample Text
 ===========
-
 Run:
 
 ```
@@ -16,12 +14,11 @@ to get sample output of Kalapi font.
 
 Installation
 ============
-
 #### Linux (using package)
 In Debian and derivative distributions like Ubuntu, simply use:
 
 ```
-sudo apt-get install fonts-aakar
+sudo apt-get install fonts-kalapi
 ```
 
 #### Linux (manual installation)
@@ -46,7 +43,6 @@ TODO
 
 How to generate TTF file?
 =========================
-
 For Linux (or any UNIX like systems or Mac OS X):
 
 1. Install fontforge:
@@ -68,6 +64,5 @@ See [pending issues] (https://github.com/gujaratilexicon/font-kalapi/issues)
 
 Contact
 =======
-
 * Troubles/Bugs/Issues? please use Github issue tracker at:
   <https://github.com/gujaratilexicon/font-kalapi/issues>
